@@ -1,6 +1,6 @@
 # 📊 Ajay Kumar Nallamothu - Data Analyst Portfolio
 
-Welcome to my personal portfolio website!  
+Welcome to my personal portfolio website!!  
 I’m **Ajay Kumar Nallamothu**, a results-driven Data Analyst with 5+ years of experience transforming complex datasets into strategic business insights across industries like telecom, oil & gas, and SaaS.
 
 🌐 **Live Site**: [https://ajay-github-username.github.io](https://ajay-github-username.github.io)  
